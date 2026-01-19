@@ -1,0 +1,55 @@
+body {
+    background-color: #f5f7fa;
+    font-family: Arial;
+    margin: 0;
+    padding: 20px;
+    color: black;
+    line-height: 1.6;
+}
+
+/* Main Name Header */
+h1 {
+    background-color: #1f3c88;
+    color: white;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+/* Section Headings */
+h2 {
+    background-color: #e8edff;
+    color: #1f3c88;
+    padding: 8px;
+    border-left: 5px solid #1f3c88;
+    margin-top: 30px;
+}
+
+/* Sub headings (Project titles, Internship ,Certification) */
+h3 {
+    color: #2c2c2c;
+    margin-top: 20px;
+}
+
+/* Paragraph box */
+p {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* Skills list */
+ul {
+    background-color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6p
+}
+
+   /* Certification list */
+   ol{
+    background-color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6p
+   }
